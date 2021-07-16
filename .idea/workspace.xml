@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4b11e93-bc50-45f8-9f6c-148b8360d31e" name="Default Changelist" comment="update to apply the private modifier to set function of CPF property">
+    <list default="true" id="e4b11e93-bc50-45f8-9f6c-148b8360d31e" name="Default Changelist" comment="updated to talk about class members">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Conta.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/digionebank/Pessoa.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -100,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626457026018</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated to talk about class members">
+      <created>1626464306539</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626464306539</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,7 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created person class" />
     <MESSAGE value="update to apply the private modifier to set function of CPF property" />
-    <option name="LAST_COMMIT_MESSAGE" value="update to apply the private modifier to set function of CPF property" />
+    <MESSAGE value="updated to talk about class members" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated to talk about class members" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
