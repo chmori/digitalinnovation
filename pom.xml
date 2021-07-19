@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>7</maven.compiler.source>
         <maven.compiler.target>7</maven.compiler.target>
-        <kotlin.version>1.4.10</kotlin.version>
+        <kotlin.version>1.5.21</kotlin.version>
     </properties>
 
     <dependencies>
@@ -21,9 +21,20 @@
             <version>${kotlin.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-stdlib-jdk7</artifactId>
+            <version>${kotlin.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.jetbrains.kotlin</groupId>
+            <artifactId>kotlin-stdlib-jdk7</artifactId>
+            <version>${kotlin.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
+        <sourceDirectory>src/main/kotlin/one/digitalinnovation/digionebank</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.jetbrains.kotlin</groupId>
